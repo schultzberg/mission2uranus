@@ -1,1 +1,1 @@
-{"virtualbox":{"/var/www":{"mount_options":["dmode=777","fmode=666"],"guestpath":"/var/www","hostpath":"/Users/viktorschultzberg/Dropbox/FED15/Javascript/Inl/mission2uranus","disabled":false}}}
+{"virtualbox":{"/var/www":{"mount_options":["dmode=777","fmode=666"],"guestpath":"/var/www","hostpath":"/Users/andersberg/Dropbox/DEV/mission2uranus","disabled":false}}}
